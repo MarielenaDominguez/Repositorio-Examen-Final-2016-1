@@ -1,0 +1,3 @@
+#Arreglo n elementos
+a = []
+
