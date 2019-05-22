@@ -1,3 +1,1 @@
 #Arreglo n elementos
-a = []
-
